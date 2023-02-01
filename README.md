@@ -1,1 +1,1 @@
-# Java-Projects
+In this section, I've divided all of my programming assignments into different branches with respective coursework. Please review the prompt to have a better understanding of the each assignments that have been uploaded.
